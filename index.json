@@ -7,6 +7,11 @@
       "short-title": "APA 6th",
       "title": "American Psychological Association 6th",
       "csl-id": "apa"
+    },
+    "harvard": {
+      "short-title": "Harvard",
+      "title": "Harvard",
+      "csl-id": "harvard1"
     }
   }
 }
