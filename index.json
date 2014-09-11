@@ -1,0 +1,12 @@
+{
+  "name": "csl-styles",
+  "version": "0.1.0",
+  "description": "a schema of different traits used in referencing",
+  "properties": {
+    "apa": {
+      "short-title": "APA 6th",
+      "title": "American Psychological Association 6th",
+      "csl-id": "apa"
+    }
+  }
+}
