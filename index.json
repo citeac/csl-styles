@@ -27,6 +27,11 @@
       "short-title": "Vancouver",
       "title": "Vancouver",
       "csl-id": "vancouver"
+    },
+    "mla": {
+      "short-title": "MLA",
+      "title": "Modern Language Association",
+      "csl-id": "mla"
     }
   }
 }
