@@ -4,34 +4,34 @@
   "description": "a schema of different traits used in referencing",
   "properties": {
     "apa": {
-      "short-title": "APA 6th",
+      "short_title": "APA 6th",
       "title": "American Psychological Association 6th",
-      "csl-id": "apa"
+      "csl_id": "apa"
     },
     "harvard": {
-      "short-title": "Harvard",
+      "short_title": "Harvard",
       "title": "Harvard",
-      "csl-id": "harvard1"
+      "csl_id": "harvard1"
     },
     "oscola": {
-      "short-title": "OSCOLA",
+      "short_title": "OSCOLA",
       "title": "Oxford University Standard for Citation of Legal Authorities",
-      "csl-id": "oscola"
+      "csl_id": "oscola"
     },
     "chicago": {
-      "short-title": "Chicago",
+      "short_title": "Chicago",
       "title": "Chicago Manual of Style 16th edition",
-      "csl-id": "chicago-author-date"
+      "csl_id": "chicago-author-date"
     },
     "vancouver": {
-      "short-title": "Vancouver",
+      "short_title": "Vancouver",
       "title": "Vancouver",
-      "csl-id": "vancouver"
+      "csl_id": "vancouver"
     },
     "mla": {
-      "short-title": "MLA",
+      "short_title": "MLA",
       "title": "Modern Language Association",
-      "csl-id": "mla"
+      "csl_id": "mla"
     }
   }
 }
